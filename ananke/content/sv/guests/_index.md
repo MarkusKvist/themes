@@ -2,9 +2,6 @@
 title: "Gästerna"
 description: "Info om andra gäster"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
-menu:
-  main:
-    weight: 3
 disable_share: true
 ---
 

@@ -8,4 +8,4 @@ menu:
 
 ---
 
-*TLDR*
+**TLDR**
