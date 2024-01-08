@@ -4,8 +4,3 @@ description: "Info om andra gäster"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 disable_share: true
 ---
-
-
-Här nedan kommer alla våra gäster
-
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}

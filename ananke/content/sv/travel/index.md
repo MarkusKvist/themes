@@ -6,11 +6,7 @@ menu:
   main:
     weight: 2
 ---
-# TDLR
+Tips på boende.
 
-## NÄR
-13-15 september
-## VAR
-Resturang Jure, Podstrana Kroatien
-https://maps.app.goo.gl/wpABtxkkiVE2mSKL8
-## HUR
+Tips på utflykter
+
