@@ -4,10 +4,22 @@
       {{- .Content -}}
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
+
+      {{ $pages := .Paginator.Pages }}
+      {{ $totalPages := len $pages }}
+      {{ $titles := slice "Brudparet" "Bestman" "Toastmasters" }} <!-- Add your predefined titles here -->
+      
+      {{ range $i, $page := $pages }}
+        {{ $titleIndex := div $i 2 }}
+        
+        {{ if mod $i 2 | eq 0 }}
+          <h1 class="f1 near-black tc w-100 mb4">{{ index $titles $titleIndex }}</h2> <!-- Adjust the font size here (e.g., f2, f3, f4, etc.) -->
+        {{ end }}
+        
         <div class="relative w-100 w-40-l mb4 bg-white">
-          {{ .Render "summary-with-image" }}
+          {{ $page.Render "summary-with-image" }}
         </div>
+
       {{ end }}
     </section>
     {{- template "_internal/pagination.html" . -}}
