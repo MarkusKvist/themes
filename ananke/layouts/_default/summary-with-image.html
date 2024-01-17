@@ -1,3 +1,9 @@
+<style>
+  .rounded {
+  border-radius: 10px; /* You can adjust the value to control the level of rounding */
+}
+</style>
+
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 <article class="bb b--black-10">
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
@@ -5,8 +11,8 @@
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns">
-          <a class="db grow">
-            <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+          <a>
+            <img src="{{ $featured_image }}" class="img rounded" alt="image from {{ .Title }}">
           </a>
         </div>
       {{ end }}

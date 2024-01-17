@@ -6,13 +6,13 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 38 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Start"
+    title = "Startsida"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
