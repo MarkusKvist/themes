@@ -1,5 +1,5 @@
 ---
-description: "Markus Kvist"
+description: "Marianne Nordholm"
 featured_image: "/images/parbild.JPG"
 tags: [STL]
 title: "Marianne Nordholm"
