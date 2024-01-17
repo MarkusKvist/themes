@@ -7,9 +7,4 @@ disable_share: true
 weight: 2
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Bruden, en tjej från djupt inne i de småländska, religösa skogarna. Har arbetat både som reseledare och flygvärdinna men valde sedan sjukvården för bli ännu mer intim med sina gäster eller numera patienter. Arbetar som sjuksköterska på Malmös universitetssjukhus och ser inte fram emot att sluta snusa...

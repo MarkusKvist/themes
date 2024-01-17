@@ -7,9 +7,4 @@ disable_share: true
 weight: 3
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudgummens lillebror, snart att titulera Dr. Labban. En malmöit i grunden som emigrerade till Linköping för studier där han träffade kärleken Fanny. Bor numera i Jönköping där han upprätthåller den kreativa sidan i familjen Kvist.
