@@ -14,6 +14,9 @@
         
         {{ if mod $i 2 | eq 0 }}
           <h1 class="f1 near-black tc w-100 mb4">{{ index $titles $titleIndex }}</h2> <!-- Adjust the font size here (e.g., f2, f3, f4, etc.) -->
+
+        {{else if eq $i 7}}
+          <h1 class="f1 near-black tc w-100 mb4">Officiant</h2> <!-- Adjust the font size here (e.g., f2, f3, f4, etc.) -->
         {{ end }}
         
         <div class="relative w-100 w-40-l mb4 bg-white rounded">
