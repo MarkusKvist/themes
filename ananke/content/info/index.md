@@ -59,3 +59,9 @@ Restaurangen stänger klockan 01:00, efter det finns såklart möjlighet för na
 Efter denna fantastiska helg som ni delat med oss vill vi gärna tacka er genom en lunch kl 14:00 som består av gnocchi på balkan vis med dryck till.
 
 ## Presenter
+**Inga presenter** - Vi vet att det är väldigt mycket begärt av våra gäster att ta sig utomlands. Att ni kommer på vårt bröllop är den bästa present vi kan önska oss.
+
+## Klädkod
+Det kommer vara varm nere i Kroatien. Ljus, fin och sval klädsel är det som gäller.
+
+
