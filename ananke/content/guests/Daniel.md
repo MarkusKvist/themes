@@ -6,10 +6,4 @@ title: "Daniel Johansson"
 disable_share: true
 weight: 13
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Gått med bruden i gymnasiet, är gift med Amanda Johansson. Började sin karriär hos GBJ Bygg men arbetar numera i blå uniform och ser till att lagarna följs. Strt intresse för natur och jakt, även öl!
