@@ -1,6 +1,6 @@
 ---
 description: "Elin Hansson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Elin.jpg"
 tags: [STL]
 title: "Elin Hansson"
 disable_share: true

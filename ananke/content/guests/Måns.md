@@ -1,6 +1,6 @@
 ---
 description: "Måns Rosberg"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Måns.jpg"
 tags: [STL]
 title: "Måns Rosberg"
 disable_share: true

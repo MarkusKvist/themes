@@ -1,6 +1,6 @@
 ---
 description: "Jennie Johansson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Jennie.jpg"
 tags: [STL]
 title: "Jennie Johansson"
 disable_share: true

@@ -1,6 +1,6 @@
 ---
 title: "Gästerna"
-description: "Info om andra gäster"
+description: "Gästerna"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 disable_share: true
 ---

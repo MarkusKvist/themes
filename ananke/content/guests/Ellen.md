@@ -1,6 +1,6 @@
 ---
 description: "Ellen Delblanc"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Ellen.jpg"
 tags: [STL]
 title: "Ellen Delblanc"
 disable_share: true

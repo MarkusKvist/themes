@@ -3,11 +3,12 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
       {{- .Content -}}
     </section>
+    <h3 class="f1 near-black tc w-100 mb4">Vill ni att vi byer ut eller tar bort er bild så skicka ett mejl till: markus.love.kvist@gmail.com</h3>
     <section class="flex-ns flex-wrap justify-around mt5">
 
       {{ $pages := .Paginator.Pages }}
       {{ $totalPages := len $pages }}
-      {{ $titles := slice "Brudparet" "Bestman" "Toastmasters" "Officiant & mingelfotograf" "Övriga gäster" }} <!-- Add your predefined titles here -->
+      {{ $titles := slice "Brudparet" "Bestman & brudtärna" "Toastmasters" "Officiant & mingelfotograf" "Övriga gäster" }} <!-- Add your predefined titles here -->
       
       {{ range $i, $page := $pages }}
         {{ $titleIndex := div $i 2 }}

@@ -1,6 +1,6 @@
 ---
 description: "Marianne Nordholm"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Marianne.jpg"
 tags: [STL]
 title: "Marianne Nordholm"
 disable_share: true

@@ -1,6 +1,6 @@
 ---
 description: "Daniel Johansson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Daniel.jpg"
 tags: [STL]
 title: "Daniel Johansson"
 disable_share: true

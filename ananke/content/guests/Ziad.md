@@ -1,6 +1,6 @@
 ---
 description: "Ziad El-jerbi"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Ziad.JPG"
 tags: [STL]
 title: "Ziad El-jerbi"
 disable_share: true

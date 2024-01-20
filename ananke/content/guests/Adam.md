@@ -1,6 +1,6 @@
 ---
 description: "Adam Rosandell"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Adam.jpg"
 tags: [STL]
 title: "Adam Rosandell"
 disable_share: true

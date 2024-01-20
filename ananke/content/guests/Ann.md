@@ -1,10 +1,10 @@
 ---
 description: "Ann Troedsson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Ann.jpg"
 tags: [STL]
 title: "Ann Troedsson"
 disable_share: true
-weight: 8
+weight: 9
 ---
 
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus

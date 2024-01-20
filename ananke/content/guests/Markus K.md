@@ -1,7 +1,6 @@
 ---
 description: "Markus Kvist"
-featured_image: "/images/parbild.JPG"
-tags: [STL]
+featured_image: "/images/Markus K.jpg"
 title: "Markus Kvist"
 disable_share: true
 weight: 1

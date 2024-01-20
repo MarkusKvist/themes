@@ -1,6 +1,6 @@
 ---
 description: "Ellinor Ljungberg"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Ellinor.jpg"
 tags: [STL]
 title: "Ellinor Ljungberg"
 disable_share: true

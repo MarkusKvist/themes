@@ -1,6 +1,6 @@
 ---
 description: "Johanna Rydell"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Johanna.jpg"
 tags: [STL]
 title: "Johanna Rydell"
 disable_share: true

@@ -1,6 +1,6 @@
 ---
 description: "Bengt Åkerman"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Bengt.jpg"
 tags: [STL]
 title: "Bengt Åkerman"
 disable_share: true

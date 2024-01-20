@@ -1,6 +1,6 @@
 ---
 description: "Johan Dalslycke"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Johan D.jpg"
 tags: [STL]
 title: "Johan Dalslycke"
 disable_share: true

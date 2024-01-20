@@ -1,6 +1,6 @@
 ---
 description: "Albin Kvist"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Albin.jpg"
 tags: [STL]
 title: "Albin Kvist"
 disable_share: true

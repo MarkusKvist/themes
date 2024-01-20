@@ -1,12 +1,12 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "Simon Stajduhar"
-featured_image: "/images/parbild.JPG"
+description: "Felicia Forssell"
+featured_image: "/images/Felicia.jpg"
 tags: [STL]
-title: "Simon Stajduhar"
+title: "Felicia Forssell"
 disable_share: true
-weight: 7
+weight: 27
 ---
+
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus

@@ -1,10 +1,10 @@
 ---
 description: "Max Wither"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Max.jpg"
 tags: [STL]
 title: "Max Wither"
 disable_share: true
-weight: 31
+weight: 38
 ---
 
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus

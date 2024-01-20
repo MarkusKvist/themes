@@ -1,6 +1,6 @@
 ---
 description: "Amanda Johansson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Amanda.jpg"
 tags: [STL]
 title: "Amanda Johansson"
 disable_share: true

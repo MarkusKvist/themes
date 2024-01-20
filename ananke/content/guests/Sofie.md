@@ -1,6 +1,6 @@
 ---
 description: "Sofie Dalslycke"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Sofie.jpg"
 tags: [STL]
 title: "Sofie Dalslycke"
 disable_share: true

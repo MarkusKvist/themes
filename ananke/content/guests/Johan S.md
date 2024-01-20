@@ -1,6 +1,6 @@
 ---
 description: "Johan Sjöstedt"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Johan S.jpg"
 tags: [STL]
 title: "Johan Sjöstedt"
 disable_share: true

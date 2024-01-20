@@ -1,6 +1,6 @@
 ---
 description: "Niklas Landin"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Niklas.jpg"
 tags: [STL]
 title: "Niklas Landin"
 disable_share: true

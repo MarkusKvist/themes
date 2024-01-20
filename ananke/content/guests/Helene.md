@@ -1,6 +1,6 @@
 ---
 description: "Helene Johansson Kvist"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Helene.jpg"
 tags: [STL]
 title: "Helene Johansson Kvist"
 disable_share: true

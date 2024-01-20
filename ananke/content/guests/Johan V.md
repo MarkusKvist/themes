@@ -1,6 +1,6 @@
 ---
 description: "Johan Vikstrand"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Johan V.jpg"
 tags: [STL]
 title: "Johan Vikstrand"
 disable_share: true

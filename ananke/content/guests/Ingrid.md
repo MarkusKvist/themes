@@ -1,6 +1,6 @@
 ---
 description: "Ingrid Almgren Berter"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Ingrid.jpg"
 tags: [STL]
 title: "Ingrid Almgren Berter"
 disable_share: true

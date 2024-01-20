@@ -1,6 +1,6 @@
 ---
 description: "Madeleine Nordsjö"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Madeleine.jpg"
 tags: [STL]
 title: "Madeleine Nordsjö"
 disable_share: true

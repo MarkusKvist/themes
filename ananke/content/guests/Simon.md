@@ -1,12 +1,12 @@
 ---
-description: "Marcus Lindström"
-featured_image: "/images/parbild.JPG"
+date: 2017-04-09T10:58:08-04:00
+description: "Simon Stajduhar"
+featured_image: "/images/Simon.JPG"
 tags: [STL]
-title: "Marcus Lindström"
+title: "Simon Stajduhar"
 disable_share: true
-weight: 35
+weight: 7
 ---
-
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
 Detta är ett test där vi skriver om gästerna. Detta är texten för Markus

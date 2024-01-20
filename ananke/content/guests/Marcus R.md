@@ -1,6 +1,6 @@
 ---
 description: "Marcus Ryberg"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Marcus R.jpg"
 tags: [STL]
 title: "Marcus Ryberg"
 disable_share: true

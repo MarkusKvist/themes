@@ -1,6 +1,6 @@
 ---
 description: "Stina Troedsson Lindahl"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Stina.jpg"
 tags: [STL]
 title: "Stina Troedsson Lindahl"
 disable_share: true

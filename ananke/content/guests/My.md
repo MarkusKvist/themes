@@ -1,6 +1,6 @@
 ---
 description: "My Rombo"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/My.jpg"
 tags: [STL]
 title: "My Rombo"
 disable_share: true

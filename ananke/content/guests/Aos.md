@@ -1,6 +1,6 @@
 ---
 description: "Aos Jaralla"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Aos.jpg"
 tags: [STL]
 title: "Aos Jaralla"
 disable_share: true

@@ -1,6 +1,6 @@
 ---
 description: "Olle Qvarnkullen"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Olle.jpg"
 tags: [STL]
 title: "Olle Qvarnkullen"
 disable_share: true

@@ -1,6 +1,6 @@
 ---
 description: "Oskar Rombo"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Oskar.jpg"
 tags: [STL]
 title: "Oskar Rombo"
 disable_share: true

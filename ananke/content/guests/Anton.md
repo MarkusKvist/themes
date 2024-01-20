@@ -1,6 +1,6 @@
 ---
 description: "Anton Johansson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Anton.jpg"
 tags: [STL]
 title: "Anton Johansson"
 disable_share: true

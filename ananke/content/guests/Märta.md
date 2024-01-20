@@ -1,6 +1,6 @@
 ---
 description: "Märta Thulesius"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Märta.jpg"
 tags: [STL]
 title: "Märta Thulesius"
 disable_share: true

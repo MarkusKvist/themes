@@ -1,6 +1,6 @@
 ---
 description: "Fanny Nilsson"
-featured_image: "/images/parbild.JPG"
+featured_image: "/images/Fanny.jpg"
 tags: [STL]
 title: "Fanny Nilsson"
 disable_share: true
