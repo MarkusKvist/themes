@@ -7,9 +7,4 @@ disable_share: true
 weight: 26
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Träffade brudgummen på universitet i Lund. Stor träningsfantast vilket var bra för brudgummen då Adam alltid fick iväg honom till gymmet när motivationen sviktade. Bor tillsammans med Felicia Forsell i Stockholm

@@ -7,9 +7,4 @@ disable_share: true
 weight: 8
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Gymnasiekompis till brudgummen och har också studerat till civilingenjör inom elektroteknik. Stort intresse för fotografier och är alltid den som tar bilder. Tur för alla oss i KFC squad då vi andra är värdelösa på den fronten

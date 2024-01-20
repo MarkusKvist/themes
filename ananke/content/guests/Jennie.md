@@ -6,10 +6,4 @@ title: "Jennie Johansson"
 disable_share: true
 weight: 20
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudens barndomsvän, tågluffat med bruden och har många roliga och även pinsamma minnen med bruden. Duktig kartläsare med bästa lokalsinnet, vilket har räddat bruden många gånger. Har du ont någonstans är det stor sannolikhet att hon vet vilken muskel det gäller. Bor i Värnamo med sambon Niklas Landin och hunden Sigge. 

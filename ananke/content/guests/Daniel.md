@@ -6,4 +6,4 @@ title: "Daniel Johansson"
 disable_share: true
 weight: 13
 ---
-Gått med bruden i gymnasiet, är gift med Amanda Johansson. Började sin karriär hos GBJ Bygg men arbetar numera i blå uniform och ser till att lagarna följs. Strt intresse för natur och jakt, även öl!
+Gått med bruden i gymnasiet, är gift med Amanda Johansson. Började sin karriär hos GBJ Bygg men arbetar numera i blå uniform och ser till att lagarna följs. Stort intresse för natur och jakt, även öl!

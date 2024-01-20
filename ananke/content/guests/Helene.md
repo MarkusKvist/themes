@@ -7,9 +7,4 @@ disable_share: true
 weight: 10
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudgummens mamma. Lång erfarenhet inom sjukvård. Bor nu med malmös bästa utsikt ut över havet. Har ett stort intresse för mat, vin och konst. En riktig livsnjutare.

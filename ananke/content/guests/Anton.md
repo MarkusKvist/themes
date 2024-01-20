@@ -7,9 +7,4 @@ disable_share: true
 weight: 14
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudgummens vän sedan gymnasiet. Har backpackat i asien med brudgummen, och sitter på många roliga historier om brudgummen. Har stort intresse för ordning och reda, fotboll och tv-spel. Är tillsammans med Madeleine Nordsjö. 

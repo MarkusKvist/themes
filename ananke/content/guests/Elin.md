@@ -4,12 +4,6 @@ featured_image: "/images/Elin.jpg"
 tags: [STL]
 title: "Elin Hansson"
 disable_share: true
-weight: 36
+weight: 34
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Kompis till bruden som fördes samman genom Amanda Johansson. Ursprungligen från Växjö men bor på gård i Genarp med Marcus Ryberg och sonen Alfred. Utbildad socionom och rehabiliterar kvinnor som tidigare brutit mot lagen. Är alltid taggad på fest!

@@ -6,10 +6,4 @@ title: "Sofie Dalslycke"
 disable_share: true
 weight: 24
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudens bonussyster, som är dotter till Bengt Åkerman. Urprungligen från Trelleborg men bor numera i Småland med Johan Dalslycke, 4 barn och hunden Dobby. Brinner för träning både för egen del och med hunden. Har sett många brutna ben. 

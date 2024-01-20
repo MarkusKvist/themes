@@ -7,9 +7,4 @@ disable_share: true
 weight: 19
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Flickvän till Aos Jaralla. Om du inte kan bete dig så är kan hon ge dig kvarsittning. Bor tillsammans med sin syster i Lund och älskar solresor. 

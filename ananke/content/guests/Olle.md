@@ -6,10 +6,4 @@ title: "Olle Qvarnkullen"
 disable_share: true
 weight: 29
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Sambo med Elida Andersson. Uppvuxen och bor i Kalmar. Provar sig fram karriärsmässigt och brinner för Liverpool FC, ser gärna matcher med en öl i handen. 

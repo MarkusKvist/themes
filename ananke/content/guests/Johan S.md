@@ -6,10 +6,4 @@ title: "Johan Sjöstedt"
 disable_share: true
 weight: 33
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Bor i Fuglie med Ingrid Almgren Berter, och är egen företagare. Brinner för sitt arbete och har en stor kreativ förmåga. Älskar båtlivet. 

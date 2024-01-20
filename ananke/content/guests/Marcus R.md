@@ -4,12 +4,6 @@ featured_image: "/images/Marcus R.jpg"
 tags: [STL]
 title: "Marcus Ryberg"
 disable_share: true
-weight: 37
+weight: 35
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Gått gymnasiet med bruden, bor numera på en gård i Genarp tillsammans med sin fru Elin Hansson, sonen Alfred och gårdens djur. Är känd som "bondekocken" och att bli bjuden på middag av Marcus är som att gå på restaurang.

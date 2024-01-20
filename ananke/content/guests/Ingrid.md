@@ -6,10 +6,4 @@ title: "Ingrid Almgren Berter"
 disable_share: true
 weight: 32
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudens nästkusin som alltid varit som en storasyster till bruden. Smittat av sig till bruden med sin äventyrliga och upptäckande anda, arbetar inom logistik och är mycket driftig. Uppvuxen i Lund men bor numera i Fuglie som alla säkert vet var det ligger? Bor där med Johan Sjöstedt, sonen Sam, katterna Simba och Sot. 

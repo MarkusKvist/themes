@@ -6,10 +6,5 @@ tags: [STL]
 title: "Simon Stajduhar"
 disable_share: true
 weight: 7
----
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+--- 
+Brudgummens vän sedan gymnasiet, uppvuxen på Limhamn och har provat sig fram yrkesmässigt. Lyckas ofta skada sig under högtider och går alltid sin egna väg. Kroat som säkerligen kan agera bröllopets tolk efter några rakia. 

@@ -6,10 +6,4 @@ title: "Johan Vikstrand"
 disable_share: true
 weight: 22
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Studerade med brudgummen på Lunds universietet, och är numera även hans kollega och kontorskamrat. Intresse för programmering och 3D-printing, bor tillsammans med Johanna Rydell och blir under våren grannar med brudparet. Har många galna historier om Dafgård.

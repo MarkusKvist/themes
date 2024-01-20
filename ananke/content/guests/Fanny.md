@@ -7,9 +7,4 @@ disable_share: true
 weight: 11
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+En skånetös. Träffade Albin Kvist på läkarprogrammet i Linköping men bor numera i Jönköping. Stort intresse för musik och Harry Potter. Lika bekväm inför en publik som med nyförlösta bebisar.

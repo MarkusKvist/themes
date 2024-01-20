@@ -6,10 +6,4 @@ title: "Johan Dalslycke"
 disable_share: true
 weight: 25
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Gift med Sofie Dalslycke, ursprungligen från Småland men flyttade till Trelleborg i ung ålder för att sedan flytta tillbaka till Småland och bor där nu med deras 4 barn. Arbetade tidigare högt uppe i telemaster, och numera som sjuksköterska. Stort intresse för teknik och datorer. 

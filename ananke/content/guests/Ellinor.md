@@ -6,10 +6,4 @@ title: "Ellinor Ljungberg"
 disable_share: true
 weight: 6
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Lika mycket tidsoptimism som bruden, båda gled in lite sent första dagen på studietiden och sedan dess vänner. Uppvuxen i Linköping men bor numera i Malmö, älskar små bebisar och syr gärna babynest. 

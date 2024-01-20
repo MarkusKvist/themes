@@ -6,10 +6,4 @@ title: "Madeleine Nordsjö"
 disable_share: true
 weight: 15
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Stockholmare som hamnat i Malmö tack vare kärleken, Anton Johansson. Kompis till både bruden och brudgummen, har alltid ett gott humör och stort leende, kanske därför hon lyckas så bra på sitt jobb? 
