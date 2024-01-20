@@ -6,10 +6,4 @@ title: "Elida Andersson"
 disable_share: true
 weight: 28
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudens bonus systerdotter som var 1 år första gången bruden träffade henne. Numera vuxen och bor i Kalmar, arbetar som frisör. Har 2 katter och stort intresse för smink och hår. Bor med Olle Qvarnkullen. 

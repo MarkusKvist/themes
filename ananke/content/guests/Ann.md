@@ -6,10 +6,4 @@ title: "Ann Troedsson"
 disable_share: true
 weight: 8
 ---
-
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudens mamma, som arbetat mot karius och baktus men numera bjuter av pensionärslivet. Har en liten vit vovve och ett stort intresse för blommor och trädgård. Bor på landet med Bengt Åkerman. 
