@@ -7,9 +7,4 @@ disable_share: true
 weight: 38
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Vän med brudgummen sedan gymnasiet. Uppvuxen i Malmö men bor nu i Uppsala med Ali Fares. Duktig fotbollsspelare som ung men la bollen på hyllan och arbetar nu inom programering. Vill du hålla ditt bröllop i Libanon kan Ziad hjälpa till.

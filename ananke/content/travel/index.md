@@ -1,22 +1,21 @@
 ---
 title: "Tips inför & under resan"
-description: "Info om resan"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/Podstrana.jpg'
 menu:
   main:
     weight: 2
 ---
 
 # Resa till Kroatien
-De två vanligaste sätten att ta sig till Kroatien är antingen med bil eller flyg.
+De två vanligaste sätten att ta sig till Kroatien är antingen med flyg eller bil. Kom ihåg att kontrollera att ni har ett giltigt pass i god tid inför resan.
 ## Flyg
-Det enklaste sättet att ta sig till brölloppet är att flyga till Splits flygplats (SPU) och sedan ta taxi eller buss från flygplatsen in till Split.
+Det enklaste sättet att ta sig till brölloppet är att flyga till Splits flygplats (SPU) och sedan ta taxi eller buss från flygplatsen till ert hotell eller boende. 
 
 ## Bil
 Det går såklart även att köra ner till Kroatien för de som önskar men räkna med att körningen tar cirka 20 timmar från Malmö om man sträckkör.
 
 # Boende
-Eftersom resturangen ligger såpass nära Split så kan man välja att bo antingen i Split och ta taxi till brölloppet eller så kan man bo direkt i Podstrana. Det finns såklart en massa hotell att välja på men vi kan även starkt rekommendera att bo via Airbnb.
+Eftersom resturangen ligger såpass nära Split så kan man välja att bo antingen i Split och ta taxi till brölloppet eller så kan man bo direkt i Podstrana. Det finns såklart en massa hotell att välja på men vi kan även rekommendera att boka via [Airbnb](https://www.airbnb.se/) eller lägenhetshotell via [Booking](https://www.booking.com/). 
 
 ## Airbnb
 Det finns massor av boende att välja på via Airbnb. Allt från lägenheter till stora villor om man är ett gäng som kan tänka sig att dela boende. Detta brukar också vara ett billigare alternativ till hotell.
@@ -53,3 +52,7 @@ https://maps.app.goo.gl/4caLZUoNJt5vj5yA9
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2894.9734669675495!2d16.556140199999994!3d43.48202409999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134a9ff2d1c1c9bf%3A0x6b8e99568db695aa!2sVilla%20Mario%20PIZZERIA%20Podstrana!5e0!3m2!1ssv!2sse!4v1705762141975!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{< /rawhtml >}}
+
+
+# Tips på utflykter
+Mer information om detta kommer senare

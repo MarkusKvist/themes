@@ -7,4 +7,4 @@ disable_share: true
 weight: 27
 ---
 
-Sambo med Adam Rosandell. Brinner för design och mode som hon arbetar med i Stockholm, har planer på att studera arkitektur. Älskar att bada i havet, soldyrkare och njuter gärna av god mat och dryck. 
+Sambo med Adam Rosandell. Brinner för design och mode som hon arbetar med i Stockholm, och har planer på att studera arkitektur. Älskar att bada i havet, soldyrkare och njuter gärna av god mat och dryck. 

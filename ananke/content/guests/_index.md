@@ -1,6 +1,5 @@
 ---
 title: "Gästerna"
-description: "Gästerna"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/Beach.jpg'
 disable_share: true
 ---

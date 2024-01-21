@@ -7,9 +7,4 @@ disable_share: true
 weight: 36
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Brudgummens vän från gymnasiet som han har gjort många resor tillsammans med. Utbildad civilingenjör men passade på att se Sydamerika innan han startade karriären. Går gärna på aw och är alltid mer solbränd än brudgummen?!

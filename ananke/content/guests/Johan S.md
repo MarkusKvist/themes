@@ -6,4 +6,4 @@ title: "Johan Sjöstedt"
 disable_share: true
 weight: 33
 ---
-Bor i Fuglie med Ingrid Almgren Berter, och är egen företagare. Brinner för sitt arbete och har en stor kreativ förmåga. Älskar båtlivet. 
+Sambo med Ingrid Almgren Berter i Fuglie, som alla vet var det ligger? Är egen företagare inom event och scenbygge. Brinner för sitt arbete och har en stor kreativ förmåga. Älskar båt- och motorcykellivet. 

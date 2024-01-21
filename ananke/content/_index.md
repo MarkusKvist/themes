@@ -7,6 +7,6 @@ featured_image: '/images/parbild.JPG'
 ---
 Hjärtligt välkommna till våran bröllopssida
 
-All information hittar ni i flikarna ovan.
+All information hittar ni i flikarna ovan
 
 Vi ser fram emot en riktig fest!

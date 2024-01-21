@@ -7,4 +7,4 @@ disable_share: true
 weight: 14
 ---
 
-Brudgummens vän sedan gymnasiet. Har backpackat i asien med brudgummen, och sitter på många roliga historier om brudgummen. Har stort intresse för ordning och reda, fotboll och tv-spel. Är tillsammans med Madeleine Nordsjö. 
+Brudgummens vän sedan gymnasiet. Har backpackat i Asien med brudgummen, och sitter på många roliga historier om brudgummen. Har stort intresse för ordning och reda, fotboll och tv-spel. Vill du äta en lång middag så är Anton eller Blixten rätt bordskamrat. Är tillsammans med Madeleine Nordsjö. 

@@ -6,4 +6,4 @@ title: "Johan Vikstrand"
 disable_share: true
 weight: 22
 ---
-Studerade med brudgummen på Lunds universietet, och är numera även hans kollega och kontorskamrat. Intresse för programmering och 3D-printing, bor tillsammans med Johanna Rydell och blir under våren grannar med brudparet. Har många galna historier om Dafgård.
+Studerade med brudgummen på Lunds universitet, och är numera även hans kollega och kontorskamrat. Intresse för programmering, 3D-printing och matlagning. bor tillsammans med Johanna Rydell. Ursprungligen från Skövdetrakten och har såklart arbetat med Karins lasagne... 

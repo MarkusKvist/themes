@@ -7,4 +7,5 @@ disable_share: true
 weight: 19
 ---
 
-Flickvän till Aos Jaralla. Om du inte kan bete dig så är kan hon ge dig kvarsittning. Bor tillsammans med sin syster i Lund och älskar solresor. 
+Flickvän till Aos Jaralla. Älskar solresor och god mat. Tidigare Malmöit men bor numera med sin syster i Lund. Om du inte kan bete dig så är kan hon ge dig kvarsittning...
+

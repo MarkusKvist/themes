@@ -6,4 +6,4 @@ title: "Elida Andersson"
 disable_share: true
 weight: 28
 ---
-Brudens bonus systerdotter som var 1 år första gången bruden träffade henne. Numera vuxen och bor i Kalmar, arbetar som frisör. Har 2 katter och stort intresse för smink och hår. Bor med Olle Qvarnkullen. 
+Brudens bonussysterdotter som var 1 år första gången bruden träffade henne. Numera vuxen och bor i Kalmar, där hon arbetar som frisör. Har två katter och stort intresse för smink och hår. Bor tillsammans med Olle Qvarnkullen. 

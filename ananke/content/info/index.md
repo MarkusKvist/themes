@@ -1,25 +1,26 @@
 ---
 title: "Information"
-description: "Praktisk information om bröllopet"
-featured_image: '/images/parbild.jpg'
+featured_image: '/images/Info.jpg'
 menu:
   main:
     weight: 1
 
 ---
-# TLDR
+# OSA
+Meddela oss om ni kan närvara via sms till 0705 13 19 21, senast 31 maj 2024.
+Skriv i smset vilka dagar ni kan närvara och om ni har några matallegier.
 
-### NÄR
-13-15 september
-### Hålltider
-**13 september**
+# NÄR
+Fredag 13:e september till söndag 15:e september 2024
+## Hålltider
+**13 september** - Middag 19:00
 
-**14 september**
+**14 september** - Cermoni 15:00/16:00
 
-**15 september**
+**15 september** - Lunch 14:00
 
 
-### VAR
+# VAR
 Resturang Jure, Podstrana Kroatien
 {{< rawhtml >}}
 
@@ -27,25 +28,22 @@ Resturang Jure, Podstrana Kroatien
 
 {{< /rawhtml >}}
 
-### HUR
-Lätast är att ta taxi till restaurangen. Går även bussar i närheten
-
 ---
 
 # Detaljer
-Bröllopet kommer att hållas på Restaurant Jure i Podstrana, strax utanför Split, Kroatien och är uppdelat på tre dagar enligt följande:
+Bröllopshelgen kommer att hållas på Restaurang Jure i Podstrana, strax utanför Split, Kroatien och är uppdelat på tre dagar enligt följande:
 
 ## 13 september - Välkomstmiddag
 
 Denna kväll vill vi hälsa er välkomna genom en middag klockan 19:00. 
-Det kommer serveras grillat på balkan vis med tillbehör och öl och vin. 
+Det kommer serveras grillat på balkan vis med tillbehör samt dryck. 
 Restaurangen stänger kl 01:00 denna kväll och alla gäster stannar så länge som man känner för.  
 
-## 14 september - Cermoni och fest
+## 14 september - Cermoni och bröllopsfest
 
 Den STORA dagen som vi är så tacksamma att ni vill dela med oss!
 Cermonin kommer att hållas på restaurangens uteservering vid havet på en mindre pir. 
-Cermonin börjar kl 15:00 eller 16:00, exakt tid kommer i sommar. 
+Cermonin börjar kl 15:00 eller 16:00, exakt tid kommer senare i sommar. 
 Efter cermonin bjuds det på Prosecco och plockmat, även här autentiskt från balkan. 
 En fotograf kommer närvara under cermonin och en stund efter, så här kan vi passa på att ta fina foton!
 Huvudrätt serveras även detta vid havet på piren (om vädret tillåter) klockan 19:00, menyn består av blandat gott från havet, öl och vin. 
@@ -58,10 +56,12 @@ Restaurangen stänger klockan 01:00, efter det finns såklart möjlighet för na
 
 Efter denna fantastiska helg som ni delat med oss vill vi gärna tacka er genom en lunch kl 14:00 som består av gnocchi på balkan vis med dryck till.
 
-## Presenter
+# Presenter
 **Inga presenter** - Vi vet att det är väldigt mycket begärt av våra gäster att ta sig utomlands. Att ni kommer på vårt bröllop är den bästa present vi kan önska oss.
 
-## Klädkod
-Det kommer vara varm nere i Kroatien. Ljus, fin och sval klädsel är det som gäller.
+# Klädkod
+Det kommer vara varmt nere i Kroatien, cirka 18-25 grader. Ljus, fin och sval klädsel är det som gäller. Tänk på att bröllopet kommer hållas på en pir/stenstrand och välj sköna skor som passar detta.
 
+# Överraska brudparet
+Vill du/ni hålla tal, uppträda eller på något annat sätt underhålla gästerna och brudparet efter cermonin på lördagen 14 september, meddela då våra toastmadames på: [smbrollop2024@gmail.com](mailto:smbrollop2024@gmail.com)
 

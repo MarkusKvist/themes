@@ -6,4 +6,4 @@ title: "Olle Qvarnkullen"
 disable_share: true
 weight: 29
 ---
-Sambo med Elida Andersson. Uppvuxen och bor i Kalmar. Provar sig fram karriärsmässigt och brinner för Liverpool FC, ser gärna matcher med en öl i handen. 
+Uppvuxen i Kalmar där han numera är sambo med Elida Andersson. Provar sig fram karriärsmässigt och brinner för Liverpool FC, ser gärna fotbollsmatcher med en öl i handen!

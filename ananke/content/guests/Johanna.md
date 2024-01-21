@@ -6,4 +6,4 @@ title: "Johanna Rydell"
 disable_share: true
 weight: 23
 ---
-Blekinge tjej som studerat i Lund till läkare och påbörjar snart sin karriär. Bor med Johan Vikstrand och älskar att resa. 
+Blekinge tjej som studerat till läkare i Lund och påbörjar snart sin karriär i Malmö. Älskar att resa. Bor med Johan Vikstrand och de kommer under våren bli grannar med bruparet.

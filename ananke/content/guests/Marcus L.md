@@ -7,9 +7,4 @@ disable_share: true
 weight: 37
 ---
 
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
-Detta är ett test där vi skriver om gästerna. Detta är texten för Markus
+Vän till bruden och brudgummen som vi tackar Madeleine Nordsjö för. Stockholmare som flyttade ner till Malmö för att lära sig att slåss mot bränder. Bjuder gärna på god mat och goda drinkar.

@@ -7,4 +7,4 @@ disable_share: true
 weight: 10
 ---
 
-Brudgummens mamma. Lång erfarenhet inom sjukvård. Bor nu med malmös bästa utsikt ut över havet. Har ett stort intresse för mat, vin och konst. En riktig livsnjutare.
+Brudgummens mamma. Lång erfarenhet inom sjukvård. Bor nu med Malmös bästa utsikt ut över havet. Har ett stort intresse för mat, vin och konst. En riktig livsnjutare.

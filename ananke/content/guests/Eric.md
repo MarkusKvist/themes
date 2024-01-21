@@ -7,4 +7,4 @@ disable_share: true
 weight: 8
 ---
 
-Gymnasiekompis till brudgummen och har också studerat till civilingenjör inom elektroteknik. Stort intresse för fotografier och är alltid den som tar bilder. Tur för alla oss i KFC squad då vi andra är värdelösa på den fronten
+Gymnasiekompis till brudgummen och har också studerat till civilingenjör inom elektroteknik. Stort intresse för fotografier och är alltid den som tar foton men är sällan med på dem själv, vi uppskattar om vi alla under bröllopshelgen lyckas ta några foton på Eric! 

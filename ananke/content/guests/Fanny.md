@@ -7,4 +7,4 @@ disable_share: true
 weight: 11
 ---
 
-En skånetös. Träffade Albin Kvist på läkarprogrammet i Linköping men bor numera i Jönköping. Stort intresse för musik och Harry Potter. Lika bekväm inför en publik som med nyförlösta bebisar.
+Träffade Albin Kvist på läkarprogrammet i Linköping men bor numera i Jönköping men längtar tillbaka till Skåne som hon är uppvuxen i. Stort intresse för musik och Harry Potter. Lika bekväm inför en publik som med nyförlösta bebisar.
