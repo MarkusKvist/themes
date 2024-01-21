@@ -1,0 +1,15 @@
+{{ define "summary" }}
+  <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+    {{ with .Params.featured_image }}
+      <img src="{{ . }}" alt="{{ .Title }}" class="w-100 mb3">
+    {{ end }}
+    <h2 class="f3 near-black">
+      <a href="{{ .RelPermalink }}" class="link black dim">
+        {{ .Title }}
+      </a>
+    </h2>
+    <p class="f5 lh-copy">
+      {{ .Description }}
+    </p>
+  </div>
+{{ end }}
