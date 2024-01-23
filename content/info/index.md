@@ -8,11 +8,13 @@ menu:
 ---
 # OSA
 Meddela oss om ni kan närvara via sms till 0705 13 19 21, senast 31 maj 2024.
-Skriv i smset vilka dagar ni kan närvara och om ni har några matallegier.
+Skriv i smset vilka dagar ni kan närvara och om ni har några matallergier.
 
 
 Barn är fantastiska men får tyvärr inte vara med den 14:e september. Däremot går det bra både den 13:e och 15:e.
 
+
+Har ni inte möjlighet att närvara på bröllopet i Kroatien så kommer vi även att hålla en bröllopsfest hemma i Malmö senare i september, dit ni självklart också är bjudna!
 # NÄR
 Fredag 13:e september till söndag 15:e september 2024
 ## Hålltider
@@ -34,7 +36,7 @@ Resturang Jure, Podstrana Kroatien
 ---
 
 # Detaljer
-Bröllopshelgen kommer att hållas på Restaurang Jure i Podstrana, strax utanför Split, Kroatien och är uppdelat på tre dagar enligt följande:
+Bröllopshelgen kommer att hållas på Restaurang Jure i Podstrana, strax utanför Split, Kroatien, och är uppdelat på tre dagar enligt följande:
 
 ## 13 september - Välkomstmiddag
 
@@ -47,7 +49,7 @@ Restaurangen stänger kl 01:00 denna kväll och alla gäster stannar så länge 
 Den STORA dagen som vi är så tacksamma att ni vill dela med oss!
 Cermonin kommer att hållas på restaurangens uteservering vid havet på en mindre pir. 
 Cermonin börjar kl 15:00 eller 16:00, exakt tid kommer senare i sommar. 
-Efter cermonin bjuds det på Prosecco och plockmat, även här autentiskt från balkan. 
+Efter cermonin bjuds det på bubbel och plockmat, även här autentiskt från balkan. 
 En fotograf kommer närvara under cermonin och en stund efter, så här kan vi passa på att ta fina foton!
 Huvudrätt serveras även detta vid havet på piren (om vädret tillåter) klockan 19:00, menyn består av blandat gott från havet, öl och vin. 
 När vi är nöjda och belåtna blir det bröllopstårta med kaffe och avec. 
@@ -57,7 +59,7 @@ Restaurangen stänger klockan 01:00, efter det finns såklart möjlighet för na
 
 ## 15 september - Avtackningslunch
 
-Efter denna fantastiska helg som ni delat med oss vill vi gärna tacka er genom en lunch kl 14:00 som består av gnocchi på balkan vis med dryck till.
+Efter denna fantastiska helg som ni delat med oss vill vi gärna tacka er genom en lunch kl 14:00, som består av gnocchi på balkan vis med dryck till.
 
 # Presenter
 **Inga presenter** - Vi vet att det är väldigt mycket begärt av våra gäster att ta sig utomlands. Att ni kommer på vårt bröllop är den bästa present vi kan önska oss.

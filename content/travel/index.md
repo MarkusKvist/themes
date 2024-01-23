@@ -9,13 +9,13 @@ menu:
 # Resa till Kroatien
 De två vanligaste sätten att ta sig till Kroatien är antingen med flyg eller bil. Kom ihåg att kontrollera att ni har ett giltigt pass i god tid inför resan.
 ## Flyg
-Det enklaste sättet att ta sig till brölloppet är att flyga till Splits flygplats (SPU) och sedan ta taxi eller buss från flygplatsen till ert hotell eller boende. 
+Det enklaste sättet att ta sig till bröllopet är att flyga till Splits flygplats (SPU) och sedan ta taxi eller buss från flygplatsen till ert hotell eller boende. 
 
 ## Bil
 Det går såklart även att köra ner till Kroatien för de som önskar men räkna med att körningen tar cirka 20 timmar från Malmö om man sträckkör.
 
 # Boende
-Eftersom resturangen ligger såpass nära Split så kan man välja att bo antingen i Split och ta taxi till brölloppet eller så kan man bo direkt i Podstrana. Det finns såklart en massa hotell att välja på men vi kan även rekommendera att boka via [Airbnb](https://www.airbnb.se/) eller lägenhetshotell via [Booking](https://www.booking.com/). 
+Eftersom resturangen ligger såpass nära Split så kan man välja att bo antingen i Split och ta taxi till bröllopet eller så kan man bo direkt i Podstrana. Det finns såklart en massa hotell att välja på men vi kan även rekommendera att boka via [Airbnb](https://www.airbnb.se/) eller lägenhetshotell via [Booking](https://www.booking.com/). 
 
 ## Airbnb
 Det finns massor av boende att välja på via Airbnb. Allt från lägenheter till stora villor om man är ett gäng som kan tänka sig att dela boende. Detta brukar också vara ett billigare alternativ till hotell.
