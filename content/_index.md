@@ -6,7 +6,7 @@ theme_version: '2.8.2'
 featured_image: '/images/parbild.JPG'
 site_logo: '/images/about.svg'
 ---
-Hjärtligt välkommna till vår bröllopssida
+Hjärtligt välkomna till vår bröllopssida
 
 All information hittar ni i flikarna ovan
 
