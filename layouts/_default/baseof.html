@@ -51,8 +51,10 @@
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb7" role="main">
+    <main class="pb7" role="main"> 
       {{ block "main" . }}{{ end }}
+      <img src="/images/logga.svg" style="width: 300px; margin-left: auto; margin-right: auto; display: block;">
+
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
   </body>
